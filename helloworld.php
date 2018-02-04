@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php echo '<p>Hello World</p>'; 
-  ritin
+  ritin jjlj
   <?php echo '<p>jagruthi </p>'; 
 <p> Jagruthi </p>
 ?> 
